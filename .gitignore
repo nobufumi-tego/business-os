@@ -1,0 +1,27 @@
+# 機密データ
+inputs/*
+!inputs/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.uv/
+*.egg-info/
+
+# 個人設定
+.claude/settings.local.json
+*.local.md
+CLAUDE.local.md
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Excel/Word の一時ファイル
+~$*
+
+# エディタ
+.vscode/settings.json
+.idea/

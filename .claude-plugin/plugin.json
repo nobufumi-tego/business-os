@@ -1,0 +1,8 @@
+{
+  "name": "business-os",
+  "version": "0.1.0",
+  "description": "日本のDX担当者向けの業務改善スターター。業務棚卸し・ドキュメント棚卸し・システム棚卸しを対話で進める",
+  "author": {
+    "name": "Nobufumi Yoshida"
+  }
+}

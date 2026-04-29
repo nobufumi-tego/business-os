@@ -1,0 +1,13 @@
+{
+  "name": "business-os-marketplace",
+  "owner": {
+    "name": "Nobufumi Yoshida"
+  },
+  "plugins": [
+    {
+      "name": "business-os",
+      "source": ".",
+      "description": "日本のDX担当者向け業務改善スターター"
+    }
+  ]
+}
