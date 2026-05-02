@@ -3,6 +3,15 @@
 日本の DX担当者向け、業務改善のための Claude Code スターター。
 Windows 11 / PowerShell 未経験から、5分で最初の棚卸しを始められます。
 
+## 始める前に確認すること
+
+| 項目 | 条件 |
+|------|------|
+| OS | Windows 11（Windows 10 は動作未確認） |
+| 権限 | 管理者アカウント、または PowerShell を管理者として実行できること |
+| APIキー | Anthropic API キー（[console.anthropic.com](https://console.anthropic.com) で取得） |
+| 費用 | Claude API の従量課金が発生します（棚卸し1回あたり数円〜数十円程度） |
+
 ## まず動かしてみる（5分）
 
 ### 1. 必要なものをインストール（初回だけ）
